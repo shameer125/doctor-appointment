@@ -16,6 +16,10 @@ npm run dev
 👉 Open your browser at:
 http://localhost:5173
 
+🌐 Live Demo
+
+👉 https://doctor-appointment-tan-nu.vercel.app
+
 📜 Available Scripts
 Command	Description
 npm run dev	Start development server

@@ -16,7 +16,7 @@ const NAV = [
     { path: "/admin/analytics",    label: "Analytics",    icon: "icofont-chart-bar-graph" },
 ];
 
-const PRIMARY    = "#9b1f1f";
+const PRIMARY = "#9b1f1f";
 const SIDEBAR_BG = "#0c1424";
 
 export default function AdminLayout({ children, title }) {

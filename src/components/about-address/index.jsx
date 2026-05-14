@@ -14,7 +14,9 @@ const AboutAddress = ({ data }) => {
 };
 
 AboutAddress.propTypes = {
+    
     data: PropTypes.object,
 };
+
 
 export default AboutAddress;

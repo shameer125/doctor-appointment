@@ -10,7 +10,9 @@ function formatVisitDate(isoDate) {
         day: "numeric",
         year: "numeric",
     });
+
 }
+
 
 export function AppointmentCard({ appointment, onCancel }) {
     return (
@@ -48,6 +50,7 @@ export function AppointmentCard({ appointment, onCancel }) {
                     {appointment.referenceId}
                 </span>
             </p>
+            
 
             {appointment.message && (
                 <p className="small mb-3" style={{ color: "#475569", background: "#f8fafc", borderRadius: "8px", padding: "0.625rem 0.875rem", border: "1px solid #f1f5f9" }}>

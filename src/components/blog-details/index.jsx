@@ -64,10 +64,8 @@ const BlogDetailsWrap = ({ data }) => {
     );
 };
 
-
 BlogDetailsWrap.propTypes = {
     data: PropTypes.object,
 };
-
 
 export default BlogDetailsWrap;

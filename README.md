@@ -29,24 +29,24 @@ npm run lint	Run ESLint checks
 npm run lint:fix	Fix lint issues automatically
 📁 Project Structure
 src/
-├── components/       # Reusable UI components
-│   ├── booking/      # Booking-related components
-│   ├── auth/         # Authentication guards & prompts
-│   └── ui/           # Shared UI components (modals, buttons, etc.)
-├── containers/       # Page sections / layout blocks
-├── context/          # React Context API (Auth, etc.)
-├── data/             # Static data (JSON/JS)
-├── layouts/          # Header & Footer layouts
-├── pages/            # Route-based pages
-├── templates/        # Dynamic page templates
-└── utils/            # Helper functions
+├── components/              # Reusable UI components
+│   ├── booking/             # Booking-related components
+│   ├── auth/                # Authentication guards & prompts
+│   └── ui/                 # Shared UI components (modals, buttons, etc.)
+├── containers/             # Page sections / layout blocks
+├── context/                # React Context API (Auth, etc.)
+├── data/                   # Static data (JSON/JS)
+├── layouts/                # Header & Footer layouts
+├── pages/                  # Route-based pages
+├── templates/              # Dynamic page templates
+└── utils/                  # Helper functions
 🛠️ Tech Stack
 ⚛️ React 18 — UI library
 ⚡ Vite — Fast build tool
 🧭 React Router v5 — Routing
 📝 React Hook Form — Form handling
 🎨 Tailwind CSS — Utility-first styling
-🎠 Swiper.js — Touch slider/carousel
+🎠 Swiper.js — Touch slider / carousel
 🔤 DM Sans + DM Serif Display — Typography
 ✨ Features
 🏥 Browse doctors by specialty
@@ -64,4 +64,7 @@ src/
 📊 Admin analytics dashboard
 📄 License
 
-This project is for educational/demo purposes. Add your preferred license here (MIT recommended).
+This project is for educational/demo purposes.
+You can replace this section with:
+
+MIT License (recommended)

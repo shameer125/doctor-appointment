@@ -1,0 +1,124 @@
+[
+    {
+        "headerInfo": [
+            {
+                "id": 1,
+                "icon": "icofont-clock-time",
+                "title": "Clinic hours",
+                "info": "MON–FRI: 8:00 – 18:30 · SAT: Appointments only"
+            },
+            {
+                "id": 2,
+                "icon": "icofont-ui-call",
+                "title": "Appointments hotline",
+                "info": "+1 (555) 123-4567 (same-day openings)"
+            },
+            {
+                "id": 3,
+                "icon": "icofont-envelope",
+                "title": "referrals & records",
+                "info": "bookings@hopeclinic.health"
+            }
+        ]
+    },
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "./img/slider/slide1.jpg",
+                "subTitle": "Trusted primary care & specialty coordination",
+                "title": "Your Care <span>Starts</span><span class='d-block'>With Listening</span>"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "./img/slider/slide2.jpg",
+                "subTitle": "Book online or phone — short wait times",
+                "title": "Same‑Day <span>Visits</span><span class='d-block'>When You Need Them</span>"
+            }
+        ]
+    },
+    {
+        "healthFeature": [
+            {
+                "id": 1,
+                "icon": "icon icofont-stethoscope-alt",
+                "title": "Clinical assessment",
+                "subTitle": "Examination & evidence-based diagnosis"
+            },
+            {
+                "id": 2,
+                "icon": "icon icofont-brain-alt",
+                "title": "Treatment pathways",
+                "subTitle": "Personalized therapies & prescriptions"
+            },
+            {
+                "id": 3,
+                "icon": "icon icofont-paralysis-disability",
+                "title": "Recovery planning",
+                "subTitle": "Follow-up rehab & chronic disease support"
+            }
+        ]
+    },
+    {
+        "medicalFeature": [
+            {
+                "id": 1,
+                "icon": "icofont-prescription",
+                "title": "Integrated medical counseling",
+                "excerpt": "Discuss symptoms, screenings, vaccines, medications, or lifestyle—not only with the doctor, but with our nursing team documenting your wishes for every visit."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-doctor-alt",
+                "title": "Board-certified physicians",
+                "excerpt": "Internists and family doctors supported by fellows in cardiology, endocrinology, and mental health—with digital charting accessible after each encounter."
+            },
+            {
+                "id": 3,
+                "icon": "icofont-microscope",
+                "title": "On-site diagnostics",
+                "excerpt": "Point-of-care testing, weekday lab draws until 17:30, courier drops to tertiary labs, plus electronic results delivered securely to patients."
+            },
+            {
+                "id": 4,
+                "icon": "icofont-ambulance-cross",
+                "title": "Urgent liaison",
+                "excerpt": "After-hours answering service directs emergencies to EMS and stabilizes callers; daytime triage frees capacity for genuinely urgent walk-ins."
+            },
+            {
+                "id": 5,
+                "icon": "icofont-blood",
+                "title": "Dedicated care coordinators",
+                "excerpt": "Navigators chase imaging authorizations, prior authorizations, and specialist summaries so you rarely wait on paperwork between appointments."
+            },
+            {
+                "id": 6,
+                "icon": "icofont-paralysis-disability",
+                "title": "Patient-centered follow-up",
+                "excerpt": "Reminder texts, pharmacist consults when starting new meds, nurse callbacks after procedures, plus remote blood-pressure monitoring enrolment."
+            }
+        ]
+    },
+    {
+        "team": [
+            {
+                "id": 1,
+                "image": "./img/team/01.jpg",
+                "name": "Dr. Helen Willmore, MD",
+                "excerpt": "Family physician with sixteen years directing chronic-care clinics — focuses on women’s cardio-metabolic screenings and contraceptive counseling."
+            },
+            {
+                "id": 2,
+                "image": "./img/team/02.jpg",
+                "name": "Dr. Robert David, MBBS",
+                "excerpt": "Internist boarded in hospice & palliative liaison work; oversees complex medication reconciliation for seniors with multiple prescriptions."
+            },
+            {
+                "id": 3,
+                "image": "./img/team/03.jpg",
+                "name": "Dr. Kristina Castle, DO",
+                "excerpt": "Osteopathic pediatric-to-adult transition specialist; adolescent mental-health screening coordinator for the neighborhood school district partnership."
+            }
+        ]
+    }
+]

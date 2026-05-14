@@ -1,0 +1,208 @@
+[
+    {
+        "id": 1,
+        "type": "slider",
+        "sliderThumb": [
+            {
+                "id": 1,
+                "image": "img/photos/dept-psychiatry-a.jpg"
+            },
+            {
+                "id": 2,
+                "image": "img/photos/dept-psychiatry-b.jpg"
+            }
+        ],
+        "icon": "icofont-brain",
+        "title": "Psychiatry",
+        "excerpt": "Confidential mental health consultations, psychotherapy support, medication management, and follow-up coordinated with primary care physicians.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-ophthalmology.jpg",
+            "image": "img/photos/dept-ophthalmology.jpg"
+        },
+        "icon": "icofont-eye",
+        "title": "Ophthalmology",
+        "excerpt": "Comprehensive vision screening, cataract evaluations, retina checks, contact-lens consultations, and same-day ophthalmology referrals when needed.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-cardiology.jpg",
+            "image": "img/photos/dept-cardiology.jpg"
+        },
+        "icon": "icofont-heart-beat",
+        "title": "Cardiology",
+        "excerpt": "ECG, blood pressure clinics, lipid reviews, hypertension follow-up, and referral pathways after hospital discharge or emergency visits.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-immunology.jpg",
+            "image": "img/photos/dept-immunology.jpg"
+        },
+        "icon": "icofont-microscope-alt",
+        "title": "Immunology",
+        "excerpt": "Allergy consultations, autoimmune disease monitoring, travel immunizations, vaccine schedules for adults, and influenza prevention programs.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-hematology.jpg",
+            "image": "img/photos/dept-hematology.jpg"
+        },
+        "icon": "icofont-blood-drop",
+        "title": "Hematology",
+        "excerpt": "Laboratory-guided anemia workups, INR monitoring near anticoagulation clinics, and coordination with hematology oncologists when specialist care is advised.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-laboratory.jpg",
+            "image": "img/photos/dept-laboratory.jpg"
+        },
+        "icon": "icofont-laboratory",
+        "title": "Laboratory",
+        "excerpt": "On-site phlebotomy, rapid pathology partnerships, fasting glucose and HA1c trending, lipid panels ordered through your clinician’s treatment plan.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-oncology.jpg",
+            "image": "img/photos/dept-oncology.jpg"
+        },
+        "icon": "icofont-pills",
+        "title": "Oncology",
+        "excerpt": "Multidisciplinary tumor board participation, infusion scheduling liaison, palliative symptom triage, and navigation for imaging and oncology specialists.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Hope Clinic structures each specialty visit around evidence-based workflows: licensed intake nurses capture vitals and screening questionnaires, clinicians review medication interactions, and coordinators queue follow-ups before patients reach the lobby.</p>", "<p>Referral packets—including imaging CDs, pathology PDFs, and employer return-to-work forms—are consolidated into HIPAA-secure links you can forward to caregivers or schools without duplicating photocopies.</p>", "<p>Same-day escalation paths exist whenever red-flag symptoms emerge during triage; after-hours voicemail automatically pages the on-call hospitalist liaison attached to your care team.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "type": "thumbnail",
+        "media": {
+            "thumb": "img/photos/dept-dental.jpg",
+            "image": "img/photos/dept-dental.jpg"
+        },
+        "icon": "icofont-tooth",
+        "title": "Dental",
+        "excerpt": "Preventive dentistry, periodontal maintenance, fillings, restorative care, whitening consults, and referral handoffs to orthodontic or oral-surgery colleagues.",
+        "categories": ["Psychiatry", "Dental", "Cardiology", "Immunology", "Hematology", "Gastroenterology", "Orthopedics", "Pulmonary"],
+        "body": ["<p>Our dental wing pairs general dentists with periodontic and oral-surgery liaisons so complex cases never stall between providers. Digital radiographs load chairside for immediate co-planning with patients and parents.</p>", "<p>Preventive visits bundle caries-risk scoring, fluoride varnish when indicated, and sleep-apnea screening questionnaires for adult snorers. Invisalign consults and implant planning slots book on alternating afternoons to keep sterilization turnover predictable.</p>", "<p>Patients receive itemized treatment plans with insurance-friendly ADA codes before any elective cosmetic work begins, minimizing surprise invoices after multi-visit veneer sequences.</p>"],
+        "priceList": [
+            {
+                "id": 1,
+                "listTitle": "Cosmetic Dentistry",
+                "listArray": ["<span class='service-name'>Porcelain Veneers</span><span class='service-price'>$1200</span>", "<span class='service-name'>Dental Bonding</span><span class='service-price'>$100</span>", "<span class='service-name'>Laser Gum Contouring</span><span class='service-price'>$300</span>", "<span class='service-name'>Teeth Whitening</span><span class='service-price'>$200</span>"]
+            },
+            {
+                "id": 2,
+                "listTitle": "Restorative Dentistry",
+                "listArray": ["<span class='service-name'>Dental Bridges</span><span class='service-price'>$1000</span>", "<span class='service-name'>Dental Crowns</span><span class='service-price'>$500</span>", "<span class='service-name'>Dental Fillings</span><span class='service-price'>$100</span>", "<span class='service-name'>Inlays and Onlays</span><span class='service-price'>$800</span>"]
+            }
+        ]
+    }
+]

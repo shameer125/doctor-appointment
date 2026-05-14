@@ -1,0 +1,69 @@
+import SectionTitle from "../../../components/section-title";
+import { Pagination } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
+import HomeData from "../../../data/home.json";
+import Team from "../../../components/team";
+
+const TeamContainer = () => {
+    return (
+        <div className="team-area team-default-area bg-gray">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-12">
+                        <SectionTitle
+                            classOption="text-center"
+                            subTitle="Meet our doctors"
+                            title="<span>Professional &amp;</span> Enthusiastic"
+                        />
+                    </div>
+                </div>
+                <div className="row">
+                    <div
+                        className="col-lg-12"
+                        data-aos="fade-up"
+                        data-aos-duration="1300"
+                    >
+                        <Swiper
+                            className="team-slider-container"
+                            modules={[Pagination]}
+                            loop
+                            speed={600}
+                            spaceBetween={30}
+                            slidesPerView={1}
+                            pagination={{ clickable: true }}
+                            breakpoints={{
+                                560: {
+                                    slidesPerView: 2,
+                                    spaceBetween: 30,
+                                },
+                                767: {
+                                    slidesPerView: 2,
+                                    spaceBetween: 30,
+                                },
+                                991: {
+                                    slidesPerView: 2,
+                                    spaceBetween: 30,
+                                },
+                                1200: {
+                                    slidesPerView: 3,
+                                    spaceBetween: 30,
+                                },
+                            }}
+                        >
+                            {HomeData[4].team &&
+                                HomeData[4].team.map((single, key) => {
+                                    return (
+                                        <SwiperSlide key={key}>
+                                            <Team key={key} data={single} />
+                                        </SwiperSlide>
+                                    );
+                                })}
+                        </Swiper>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default TeamContainer;

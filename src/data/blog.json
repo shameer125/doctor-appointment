@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "rcImage": "./img/blog/s01.jpg",
+            "smallImage": "./img/blog/01.jpg",
+            "gridImage": "img/blog/r01.jpg",
+            "mediumImage": "./img/blog/m01.jpg",
+            "largeImage": "img/blog/post-detail-01.jpg"
+        },
+        "title": "How to Navigate Insurance Before Your Specialist Referral",
+        "author": "Dr. A. Reyes",
+        "date": "December 14th, 2025",
+        "categories": ["Patient Education"],
+        "tags": ["Insurance", "Referrals", "Appointment", "Primary Care"],
+        "body": ["<p>Most surprise medical bills originate when authorization windows close between specialty offices still faxing paperwork. Bring your member ID screenshot, deductible tracker, plus the exact CPT ranges your referrer supplied—clinical admin teams can escalate retro-auth before you leave the imaging suite rather than chasing voicemails the next week.</p>", "<img src='/img/blog/post-detail-02.jpg' alt=\"Hope clinic teamwork during patient rounds\" />", "<h4>Document bundles that save time</h4>", "<p>Upload PDFs via the portal the night prior: operative notes, outside lab CSV exports, vaccination cards. Front-desk OCR ingestion flags missing fields so coordinators don’t reschedule you purely for clerical omissions.</p>", "<div class='blockquote-area'><blockquote class='blockquote-style'><p><span>“</span> Insurance literacy is preventative medicine—five minutes verifying tier status prevents hours disputing anesthesia codes later.</p></blockquote></div>", "<p>Use your annual wellness visit explicitly to reconcile medication lists tied to formulary substitutions; pharmacies sync faster when diagnoses align with payer logic trees.</p>"]
+    },
+    {
+        "id": 2,
+        "media": {
+            "rcImage": "./img/blog/s02.jpg",
+            "smallImage": "./img/blog/02.jpg",
+            "gridImage": "img/blog/r02.jpg",
+            "mediumImage": "./img/blog/m02.jpg",
+            "largeImage": "img/blog/post-detail-01.jpg"
+        },
+        "title": "Seven Habits Behind High-Performing Clinical Teams",
+        "author": "Nurse Torres",
+        "date": "September 17th, 2025",
+        "categories": ["Clinic Ops"],
+        "tags": ["Teamwork", "Quality", "Nursing", "Safety"],
+        "body": ["<p>Brief bedside huddles plus closed-loop acknowledgement of abnormal vitals shaved our sepsis alert false-positive escalations dramatically. Embedding scribes inside rapid-response drills keeps documentation contemporaneous rather than retrospectively embellished.</p>", "<img src='/img/blog/post-detail-02.jpg' alt=\"Clinician collaboration Hope Medical\" />", "<h4>Psychological safety checkpoints</h4>", "<p>Anonymous safety cards reviewed each Friday surfaced oxygen manifold quirks before facility engineering tickets lagged—a cultural shift louder than laminated reminder posters.</p>", "<div class='blockquote-area'><blockquote class='blockquote-style'><p><span>“</span> Accountability without blame accelerates RCA cycles; we measure culture with the same rigor we measure HA1c control.</p></blockquote></div>", "<p>Leveraging bilingual medical assistants decreased duplicate glucose education sessions; interpreters scheduled earlier now avoid emergency department bounce-backs unrelated to physiology.</p>"]
+    },
+    {
+        "id": 3,
+        "media": {
+            "rcImage": "./img/blog/s03.jpg",
+            "smallImage": "./img/blog/03.jpg",
+            "gridImage": "img/blog/r01.jpg",
+            "mediumImage": "./img/blog/m03.jpg",
+            "largeImage": "img/blog/post-detail-01.jpg"
+        },
+        "title": "Designing Appointment Flow Without Burnout Waves",
+        "author": "Ops Lead Patel",
+        "date": "May 15th, 2025",
+        "categories": ["Operations"],
+        "tags": ["Scheduling", "Throughput", "Telehealth"],
+        "body": ["<p>Template blocking by acuity—not fifteen-minute increments for complex polypharmacy blocks—stopped mid-day cascading delays without extending provider hours arbitrarily. Automated SMS confirmations with parking maps cut no-show deltas across vulnerable zip codes measurable within six weeks.</p>", "<img src='/img/blog/post-detail-02.jpg' alt=\"Front desk coordinating Hope appointments\" />", "<h4>Queue transparency matters</h4>", "<p>Large lobby displays anonymized wait deltas reduce perceived abandonment; minors’ caregivers especially report calmer corridors when ETA math is readable.</p>", "<div class='blockquote-area'><blockquote class='blockquote-style'><p><span>“</span> Elastic overflow slots staffed by moonlight fellows preserve continuity when influenza surges overwhelm template math.</p></blockquote></div>", "<p>Integrating mental-health bridge visits into same POD after chronic pain consults minimizes elevator transfers blamed historically for fractured care episodes.</p>"]
+    },
+    {
+        "id": 4,
+        "media": {
+            "rcImage": "./img/blog/s01.jpg",
+            "smallImage": "./img/blog/03.jpg",
+            "gridImage": "img/blog/r02.jpg",
+            "mediumImage": "./img/blog/m04.jpg",
+            "largeImage": "img/blog/post-detail-01.jpg"
+        },
+        "title": "Remote Monitoring for Hypertension: What Evidence Supports",
+        "author": "Dr. Garza",
+        "date": "February 21st, 2025",
+        "categories": ["Chronic Disease"],
+        "tags": ["Cardiology", "RPM", "Home Care"],
+        "body": ["<p>FDA-cleared cuffs paired with weekly asynchronous pharmacist titration outperform annual office-only intensification in pragmatic multisite trials—even when socioeconomic gradients vary. Data latency under forty-eight hours lets physicians abort futile medication escalations before syncope events.</p>", "<img src='/img/blog/post-detail-02.jpg' alt=\"Patient using blood pressure cuff at home\" />", "<h4>Equity guardrails</h4>", "<p>Device libraries loaned at zero deposit plus LTE fallback eliminate smartphone dependency assumptions that previously biased enrollment toward wealthy zip codes.</p>", "<div class='blockquote-area'><blockquote class='blockquote-style'><p><span>“</span> Normalizing trend visualization inside the same portal as lab graphs keeps patients narrating symptoms rather than raw integers.</p></blockquote></div>", "<p>When diastolic floors plateau, algorithmic nudges switch to lifestyle micro-coaching modules authored by dietitians fluent in cultural foodways.</p>"]
+    },
+    {
+        "id": 5,
+        "media": {
+            "rcImage": "./img/blog/s02.jpg",
+            "smallImage": "./img/blog/03.jpg",
+            "gridImage": "img/blog/r01.jpg",
+            "mediumImage": "./img/blog/m05.jpg",
+            "largeImage": "img/blog/post-detail-01.jpg"
+        },
+        "title": "Wellness Screenings That Employees Actually Complete",
+        "author": "Karen Liu, MPH",
+        "date": "April 14th, 2025",
+        "categories": ["Population Health"],
+        "tags": ["Employer Health", "Prevention", "Biometrics"],
+        "body": ["<p>Employer-sponsored biometric vans failed until we staggered shift-based micro-sites inside factory break rooms with union stewards co-signing privacy pledges. Cash-equivalent completion bonuses under $75 rarely trigger taxable benefit confusion when structured as HSA seed contributions.</p>", "<img src='/img/blog/post-detail-02.jpg' alt=\"Workplace health screening station\" />", "<h4>Storytelling beats lectures</h4>", "<p>Two-minute video testimonials from line workers describing early prediabetes reversals outperformed generic glycemic cartoon explainers in A/B testing.</p>", "<div class='blockquote-area'><blockquote class='blockquote-style'><p><span>“</span> Pair incentives with same-week PCP warm handoffs—orphan lab PDFs without visits rarely change behaviour.</p></blockquote></div>", "<p>Aggregate dashboards now mask individual employers yet surface industry cohort risks to public health agencies under MOU—useful when regional asthma clusters emerge near logistics hubs.</p>"]
+    }
+]

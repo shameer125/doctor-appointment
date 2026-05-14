@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "pageTitle": "Hope Medical combines primary care and coordinated specialty access so scheduling is predictable, records stay in one place, and patients know who to call next."
+    },
+    {
+        "id": 2,
+        "title": "How we practice",
+        "excerpt": [
+            "<p class='text-block'>Our teams focus on same-day acute needs, preventive visits, chronic disease management, and clear handoffs when you need a specialist. Nurses and medical assistants prepare each encounter so clinicians can concentrate on diagnosis, education, and shared decision-making.</p>",
+            "<p>Clinical coordinators handle referrals, prior authorizations, and outside records so you spend less time on paperwork and phone trees. Secure messaging ties follow-up instructions and labs back to one chart.</p>"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Safe, accessible care",
+        "excerpt": [
+            "<p>Masking protocols and room turnover follow current infection-prevention guidelines. Telehealth is available where appropriate. We offer multilingual intake and interpreter services when requested ahead of time, with accessible entrances and ADA-friendly pathways throughout our locations.</p>"
+        ]
+    },
+    {
+        "id": 4,
+        "gallery": {
+            "imageOne": "img/about/01.jpg",
+            "imageTwo": "img/about/02.jpg",
+            "imageThree": "img/about/03.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "address": [
+            {
+                "id": 1,
+                "title": "East River campus",
+                "list": ["258 Waterfront Medical Plaza, Brooklyn, NY", "+1 (929) 555-0148", "frontdesk.eastriver@hopeclinic.health"]
+            },
+            {
+                "id": 2,
+                "title": "Hudson Annex",
+                "list": ["Level 12, 692 Hudson Yards Blvd, Manhattan, NY", "+1 (212) 555-0192", "appointments.north@hopeclinic.health"]
+            }
+        ]
+    }
+]

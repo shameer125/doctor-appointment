@@ -8,6 +8,7 @@ import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
 
 const AboutPage = () => {
+
     return (
         <React.Fragment>
             <Layout>
@@ -28,6 +29,7 @@ const AboutPage = () => {
             </Layout>
         </React.Fragment>
     );
+    
 };
 
 export default AboutPage;

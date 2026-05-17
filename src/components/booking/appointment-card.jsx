@@ -10,33 +10,84 @@ function formatVisitDate(isoDate) {
         day: "numeric",
         year: "numeric",
     });
-
 }
-
 
 export function AppointmentCard({ appointment, onCancel }) {
     return (
         <article className="appointment-card hope-reveal-hover">
             <div className="appointment-card-header">
                 <div style={{ flex: 1 }}>
-                    <div style={{ display: "flex", alignItems: "center", gap: "0.5rem", marginBottom: "0.35rem" }}>
-                        <i className="icofont-doctor" style={{ color: "#9b1f1f", fontSize: "1.1rem" }} />
-                        <h3 className="appointment-card-title" style={{ fontSize: "1.05rem", margin: 0 }}>
+                    <div
+                        style={{
+                            display: "flex",
+                            alignItems: "center",
+                            gap: "0.5rem",
+                            marginBottom: "0.35rem",
+                        }}
+                    >
+                        <i
+                            className="icofont-doctor"
+                            style={{ color: "#9b1f1f", fontSize: "1.1rem" }}
+                        />
+                        <h3
+                            className="appointment-card-title"
+                            style={{ fontSize: "1.05rem", margin: 0 }}
+                        >
                             {appointment.doctorName}
                         </h3>
                     </div>
-                    <p className="small text-muted mb-0" style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center" }}>
-                        <span style={{ background: "#f1f5f9", borderRadius: "6px", padding: "0.15rem 0.5rem", fontWeight: 600, fontSize: "0.75rem" }}>
+                    <p
+                        className="small text-muted mb-0"
+                        style={{
+                            display: "flex",
+                            flexWrap: "wrap",
+                            gap: "0.5rem",
+                            alignItems: "center",
+                        }}
+                    >
+                        <span
+                            style={{
+                                background: "#f1f5f9",
+                                borderRadius: "6px",
+                                padding: "0.15rem 0.5rem",
+                                fontWeight: 600,
+                                fontSize: "0.75rem",
+                            }}
+                        >
                             {appointment.specialty}
                         </span>
-                        <span style={{ display: "flex", alignItems: "center", gap: "0.3rem" }}>
-                            <i className="icofont-calendar" style={{ color: "#9b1f1f", fontSize: "0.85rem" }} />
+                        <span
+                            style={{
+                                display: "flex",
+                                alignItems: "center",
+                                gap: "0.3rem",
+                            }}
+                        >
+                            <i
+                                className="icofont-calendar"
+                                style={{
+                                    color: "#9b1f1f",
+                                    fontSize: "0.85rem",
+                                }}
+                            />
                             <time dateTime={appointment.date}>
                                 {formatVisitDate(appointment.date)}
                             </time>
                         </span>
-                        <span style={{ display: "flex", alignItems: "center", gap: "0.3rem" }}>
-                            <i className="icofont-clock-time" style={{ color: "#9b1f1f", fontSize: "0.85rem" }} />
+                        <span
+                            style={{
+                                display: "flex",
+                                alignItems: "center",
+                                gap: "0.3rem",
+                            }}
+                        >
+                            <i
+                                className="icofont-clock-time"
+                                style={{
+                                    color: "#9b1f1f",
+                                    fontSize: "0.85rem",
+                                }}
+                            />
                             {appointment.timeSlotLabel || appointment.timeSlot}
                         </span>
                     </p>
@@ -50,10 +101,18 @@ export function AppointmentCard({ appointment, onCancel }) {
                     {appointment.referenceId}
                 </span>
             </p>
-            
 
             {appointment.message && (
-                <p className="small mb-3" style={{ color: "#475569", background: "#f8fafc", borderRadius: "8px", padding: "0.625rem 0.875rem", border: "1px solid #f1f5f9" }}>
+                <p
+                    className="small mb-3"
+                    style={{
+                        color: "#475569",
+                        background: "#f8fafc",
+                        borderRadius: "8px",
+                        padding: "0.625rem 0.875rem",
+                        border: "1px solid #f1f5f9",
+                    }}
+                >
                     {appointment.message}
                 </p>
             )}
@@ -66,13 +125,18 @@ export function AppointmentCard({ appointment, onCancel }) {
                     const ok =
                         typeof window !== "undefined" &&
                         window.confirm(
-                            `Cancel appointment with ${appointment.doctorName} on ${formatVisitDate(appointment.date)}?`
+                            `Cancel appointment with ${
+                                appointment.doctorName
+                            } on ${formatVisitDate(appointment.date)}?`
                         );
                     if (ok) onCancel(appointment.id);
                 }}
             >
-                <i className="icofont-close-circled" style={{ fontSize: "0.875rem" }} />
-                {" "}Cancel Appointment
+                <i
+                    className="icofont-close-circled"
+                    style={{ fontSize: "0.875rem" }}
+                />{" "}
+                Cancel Appointment
             </button>
         </article>
     );

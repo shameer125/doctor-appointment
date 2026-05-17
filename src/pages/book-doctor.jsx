@@ -60,9 +60,7 @@ const BookDoctorPage = ({
                 </div>
             </Layout>
         </React.Fragment>
-
     );
-    
 };
 
 export default BookDoctorPage;

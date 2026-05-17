@@ -36,7 +36,6 @@ export default function AdminLoginPage() {
         }, 320);
     };
 
-
     return (
         <>
             <SEO title="Admin Login | Hope Medical" />
@@ -85,7 +84,6 @@ export default function AdminLoginPage() {
                                     {error}
                                 </div>
                             )}
-                            
                         </div>
 
                         <button

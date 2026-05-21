@@ -137,6 +137,7 @@ const LoginPage = () => {
                                         </Link>
                                     </p>
                                 </div>
+                                
                             </div>
                         </section>
                     </div>
@@ -146,6 +147,7 @@ const LoginPage = () => {
             </Layout>
         </React.Fragment>
     );
+
 };
 
 export default LoginPage;

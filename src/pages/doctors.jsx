@@ -8,6 +8,7 @@ import PageTitleContainer from "../containers/global/page-title";
 import { DoctorsDirectory } from "../containers/doctors/doctors-directory";
 
 const DoctorsPage = () => {
+
     return (
         <React.Fragment>
             <Layout>
@@ -32,6 +33,7 @@ const DoctorsPage = () => {
             </Layout>
         </React.Fragment>
     );
+    
 };
 
 export default DoctorsPage;

@@ -8,6 +8,7 @@ import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
 
 const BlogPage = () => {
+
     return (
         <React.Fragment>
             <Layout>
@@ -30,6 +31,7 @@ const BlogPage = () => {
             </Layout>
         </React.Fragment>
     );
+    
 };
 
 export default BlogPage;

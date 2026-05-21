@@ -11,7 +11,6 @@ import { getDoctorById } from "../data/doctors";
 import { DoctorBookingForm } from "../components/booking/doctor-booking-form";
 
 const base = process.env.PUBLIC_URL || "";
-
 const BookDoctorPage = ({
     match: {
         params: { doctorId },
@@ -61,6 +60,8 @@ const BookDoctorPage = ({
             </Layout>
         </React.Fragment>
     );
+
 };
+
 
 export default BookDoctorPage;

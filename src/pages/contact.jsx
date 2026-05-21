@@ -8,6 +8,7 @@ import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
 
 const ContactPage = () => {
+
     return (
         <React.Fragment>
             <Layout>
@@ -24,6 +25,7 @@ const ContactPage = () => {
             </Layout>
         </React.Fragment>
     );
+    
 };
 
 export default ContactPage;

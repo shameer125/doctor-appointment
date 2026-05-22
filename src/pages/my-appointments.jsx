@@ -7,6 +7,7 @@ import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
 import PageTitleContainer from "../containers/global/page-title";
 import { useAuth } from "../context/AuthContext";
+
 import {
     cancelAppointmentById,
     loadAppointments,
@@ -128,5 +129,6 @@ const MyAppointmentsPage = () => {
         </React.Fragment>
     );
 };
+
 
 export default MyAppointmentsPage;

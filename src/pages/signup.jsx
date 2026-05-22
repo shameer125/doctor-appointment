@@ -23,7 +23,11 @@ const SignupPage = () => {
             ? safeAuthRedirect(rawRedirect, "/")
             : "/";
 
-    const { register, handleSubmit, formState: { errors } } = useForm({
+    const {
+        register,
+        handleSubmit,
+        formState: { errors },
+    } = useForm({
         mode: "onBlur",
         defaultValues: { email: "" },
     });
@@ -144,7 +148,6 @@ const SignupPage = () => {
 
                     <ScrollToTop />
                 </div>
-                
             </Layout>
         </React.Fragment>
     );

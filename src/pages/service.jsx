@@ -9,7 +9,6 @@ import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
 
 const ServicePage = () => {
-
     return (
         <React.Fragment>
             <Layout>
@@ -31,7 +30,6 @@ const ServicePage = () => {
             </Layout>
         </React.Fragment>
     );
-    
 };
 
 export default ServicePage;

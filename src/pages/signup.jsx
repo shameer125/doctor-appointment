@@ -141,8 +141,10 @@ const SignupPage = () => {
                         </section>
                     </div>
                     <Footer />
+
                     <ScrollToTop />
                 </div>
+                
             </Layout>
         </React.Fragment>
     );

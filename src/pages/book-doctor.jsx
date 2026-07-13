@@ -53,7 +53,9 @@ const BookDoctorPage = ({
                                 </div>
                             </div>
                         </section>
+
                     </div>
+                    
                     <Footer />
                     <ScrollToTop />
                 </div>

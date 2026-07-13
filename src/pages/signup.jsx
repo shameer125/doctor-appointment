@@ -143,7 +143,9 @@ const SignupPage = () => {
                                 </div>
                             </div>
                         </section>
+
                     </div>
+                    
                     <Footer />
 
                     <ScrollToTop />
